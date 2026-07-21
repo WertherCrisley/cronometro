@@ -4,7 +4,7 @@ Um cronômetro simples e funcional feito com **HTML**, **CSS** e **JavaScript pu
 
 ## 🔗 Demo
 
-[Acesse o projeto online](https://werthercrisley.github.io/cronometro)
+clique aqui e [Acesse o projeto online](https://werthercrisley.github.io/cronometro)
 
 ## 📋 Funcionalidades
 
